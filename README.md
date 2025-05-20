@@ -7,7 +7,8 @@
 
 ## 1. Career Counselling  
 ### Evidence  
-- Attended a career workshop on IT roles (see ![Description of the image](skills_audit.png)).  
+- Attended a career workshop on IT roles.
+- ![Screenshot of my Career Development training](Career%20Development.png)
 - Completed a career interest assessment (result: "Technology & Problem-Solving").  
 
 ### Reflection (STAR Technique)  
@@ -20,7 +21,8 @@
 
 ## 2. Skills and Interests  
 ### Evidence  
-- [Skills audit results](skills_audit.png) (Top skills: Python, teamwork, debugging).  
+- ![Screenshot of my Skills and Interests training](Skills%20&%Interested.png)
+- (Top skills: Python, teamwork, debugging).  
 - Interests:  
   - Web development  
   - Data privacy  
