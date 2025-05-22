@@ -67,7 +67,7 @@
 - Received 3 interview invites.  
 
 ### Reflection  
-**Situation**: I applied to 10 jobs with no responses.  
-**Task**: I needed to optimize my submission strategy.  
-**Action**: I targeted roles matching my portfolio and wrote custom cover letters.  
-**Result**: My response rate improved by 40%.  
+**Situation**: I had to create a CV that I would use to help me apply for internships and possibly full time employment. This was a Blackboard Submission.  
+**Task**: 
+**Action**: I updated my previous CV I used when I applied for an internship by the Department of Health. 
+**Result**: 
