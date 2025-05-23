@@ -64,7 +64,7 @@
 ## 5. CV Submission  
 ### Evidence  
 - Downloadable copy of my CV submitted to [View My CV](https://github.com/CalebLombard/digital-portfolio/raw/main/CALEB_LOMBARD_CV_230781004.pdf)
-- Received 3 interview invites.  
+- Proof of my Blackboard Submission:   ![Screenshot of my CV Submission on Blackboard](CV%20Submission.PNG)
 
 ### Reflection  
 **Situation**: I had to create a CV that I would use to help me apply for internships and possibly full time employment in the near future. This was a Blackboard Assignment submission.  
