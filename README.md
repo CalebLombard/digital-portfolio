@@ -1,7 +1,7 @@
 # Digital Portfolio  
 **Name:** Caleb Lombard  
-**Student Number:** 230781004 
-**Stream:** Multimedia Applications
+**Student Number:** 230781004  
+**Stream:** Multimedia Applications  
 **Course:** PRP370S - Project Presentation 3 
 
 ---
