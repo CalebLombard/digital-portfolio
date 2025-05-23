@@ -8,7 +8,7 @@
 
 ## 1. Career Counselling  
 ### Evidence  
-- Proof of my Blackboard Submission: ![Screenshot of my Career Development training]()
+- Proof of my Blackboard Submission: ![Screenshot of my Career Development training](Career%20Development.PNG)
 
 ### Reflection 
 
