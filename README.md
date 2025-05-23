@@ -14,8 +14,8 @@
 ### Reflection (STAR Technique)  
 **Situation**: During a university career session, I explored IT career paths.  
 **Task**: I needed to identify roles matching my skills.  
-**Action**: I took an online assessment and met with a counsellor.  
-**Result**: I discovered my strength in backend development and created a career roadmap.  
+**Action**: I read through all the information in the slideshow and did the small exam at the end of the slideshow that tested my understanding of what I read. 
+**Result**: I am also more informed on things I lacked knowledge on before.
 
 ---
 
@@ -26,23 +26,24 @@
 ### Reflection  
 **Situation**: I struggled to articulate my skills in interviews.  
 **Task**: I needed a clear skills inventory.  
-**Action**: I used a template to audit my technical/soft skills.  
-**Result**: I now confidently discuss my strengths in job applications.  
+**Action**: I read through all the information in the slideshow and did the small exam at the end of the slideshow that tested my understanding of what I read.  
+**Result**: I am also more informed on things I lacked knowledge on before. 
 
 ---
 
 ## 3. Personality Assessment  
 ### Evidence  
-- Proof of my Blackboard Submission: ![Screenshot of my Personality Assessment training](Personality%20Assessment.PNG) 
+- Proof of my Blackboard Completion: ![Screenshot of my Personality Assessment training](Personality%20Assessment.PNG) 
 
 ### Reflection  
-**Situation**: I took the MBTI test to understand my work style.  
 
-**Task**: I aimed to leverage my personality in team projects. 
+**Situation**: We had to interact and read through a slide show presentation that discussed Personality Assessment. We had to complete all the activities in the slideshow and also finish the exam at the end of the slideshow to complete the submission.
 
-**Action**: I researched INTJ strengths (e.g., strategic planning).  
+**Task**: The goal of the slideshow was present key aspects of our personality, how they relate to the workplace, and how it reflects on our readiness for the professional world. 
 
-**Result**: I now volunteer for roles requiring analysis and structure.  
+**Action**: I read through all the information in the slideshow and did the small exam at the end of the slideshow that tested my understanding of what I read.
+
+**Result**: The slideshow helped me better understand how my personality influences my work behavior and readiness. I am also more informed on things I lacked knowledge on before.
 
 ---
 
@@ -53,6 +54,7 @@
 
 
 ### Reflection  
+
 **Situation**: I had to submit a completed CV checklist that showed what my previous CV had and what was missing. This was important as it later helped me update my CV to be better suited to professional standards.
 
 **Task**: I had to use a checklist to assess what my current CV included, what was missing, and how it should be structured and formatted according to professional standards.
@@ -69,6 +71,7 @@
 - Proof of my Blackboard Submission:   ![Screenshot of my CV Submission on Blackboard](CV%20Submission.PNG)
 
 ### Reflection  
+
 **Situation**: I had to create a CV that I would use to help me apply for internships and possibly full time employment in the near future. This was a Blackboard Assignment submission.  
 
 **Task**: I was tasked with using the 'Create a CV' activity as a blueprint for how my CV should look. Based on that activity, I updated my CV by adding all the necessary information that was missing from the previous version using the checklist from the previous activity.
