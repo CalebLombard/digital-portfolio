@@ -10,6 +10,8 @@
 ### Evidence  
 - Proof of my Blackboard Submission: ![Screenshot of my Career Development training](CareerDevelopment.PNG)
 
+This evidence clearly shows that I completed the required tasks or activities, proving that I engaged with the content as expected. The screenshots also act as visual proof that backs up what I describe in my STAR reflections.
+
 ### Reflection 
 
 **Situation**: I had to interact and read through a slide show presentation that discussed Career Development. I had to complete all the activities in the slideshow and also finish the exam at the end of the slideshow to complete the submission.
@@ -26,6 +28,8 @@
 ### Evidence  
 - Proof of my Blackboard Submission:![Screenshot of my Skills and Interests training](Skills%20and%20Interests.PNG)
 
+This evidence clearly shows that I completed the required tasks or activities, proving that I engaged with the content as expected. The screenshots also act as visual proof that backs up what I describe in my STAR reflections.
+
 ### Reflection  
 
 **Situation**: I had to interact and read through a slide show presentation that discussed Skills and Interests. I had to complete all the activities in the slideshow and also finish the exam at the end of the slideshow to complete the submission.
@@ -41,6 +45,8 @@
 ## 3. Personality Assessment  
 ### Evidence  
 - Proof of my Blackboard Completion: ![Screenshot of my Personality Assessment training](Personality%20Assessment.PNG) 
+
+This evidence clearly shows that I completed the required tasks or activities, proving that I engaged with the content as expected. The screenshots also act as visual proof that backs up what I describe in my STAR reflections.
 
 ### Reflection  
 
@@ -59,6 +65,7 @@
 - [Proof of My Repo Submission to GitHub](https://github.com/wil-it2025/cv-tutorial-CalebLombard/blob/main/CV%20REVIEW%20-%20Caleb%20Lombard%20230781004.docx).  
 - Proof of my Blackboard Submission: ![Screenshot of my CV Submission on Blackboard](Create%20A%20CV.PNG)
 
+This evidence clearly shows that I completed the required tasks or activities, proving that I engaged with the content as expected. The screenshots also act as visual proof that backs up what I describe in my STAR reflections.
 
 ### Reflection  
 
@@ -76,6 +83,8 @@
 ### Evidence  
 - Downloadable copy of my CV submitted to [Blackboard Submission](https://github.com/CalebLombard/digital-portfolio/raw/main/CALEB_LOMBARD_CV_230781004.pdf)
 - Proof of my Blackboard Submission:   ![Screenshot of my CV Submission on Blackboard](CV%20Submission.PNG)
+
+This evidence clearly shows that I completed the required tasks or activities, proving that I engaged with the content as expected. The screenshots also act as visual proof that backs up what I describe in my STAR reflections.
 
 ### Reflection  
 
