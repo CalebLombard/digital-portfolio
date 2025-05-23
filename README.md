@@ -63,7 +63,7 @@
 
 ## 5. CV Submission  
 ### Evidence  
-- Downloadable copy of my CV submitted to [View My CV](https://github.com/CalebLombard/digital-portfolio/raw/main/CALEB_LOMBARD_CV_230781004.pdf)
+- Downloadable copy of my CV submitted to [Blackboard Submission](https://github.com/CalebLombard/digital-portfolio/raw/main/CALEB_LOMBARD_CV_230781004.pdf)
 - Proof of my Blackboard Submission:   ![Screenshot of my CV Submission on Blackboard](CV%20Submission.PNG)
 
 ### Reflection  
