@@ -1,33 +1,40 @@
 # Digital Portfolio  
 **Name:** Caleb Lombard  
-**Student Number:** 230781004  
+**Student Number:** 230781004 
+**Stream:** Multimedia Applications
 **Course:** PRP370S - Project Presentation 3 
 
 ---
 
 ## 1. Career Counselling  
 ### Evidence  
-- Attended a career workshop on IT roles.
-- ![Screenshot of my Career Development training](Career%20Development.png)
-- Completed a career interest assessment (result: "Technology & Problem-Solving").  
+- Proof of my Blackboard Submission: ![Screenshot of my Career Development training](Career%20Development.PNG)
 
-### Reflection (STAR Technique)  
-**Situation**: During a university career session, I explored IT career paths.  
-**Task**: I needed to identify roles matching my skills.  
-**Action**: I read through all the information in the slideshow and did the small exam at the end of the slideshow that tested my understanding of what I read. 
-**Result**: I am also more informed on things I lacked knowledge on before.
+### Reflection 
+
+**Situation**: I had to interact and read through a slide show presentation that discussed Skills and Interests. I had to complete all the activities in the slideshow and also finish the exam at the end of the slideshow to complete the submission.
+
+**Task**: I had to watch a slideshow presentation and I also had to complete a small exam at the end that accessed what I learned from the slideshows.
+
+**Action**: I read about career development strategies and reflected on my own career goals. I read through all the information in the slideshow and did the small exam at the end of the slideshow that tested my understanding of what I read. 
+
+**Result**: The presentation deepened my understanding of how to plan and prepare for my career. It also motivated me to set clearer goals and take actionable steps toward my professional future. I am also more informed on things I lacked knowledge on before.
 
 ---
 
 ## 2. Skills and Interests  
 ### Evidence  
-- Proof of my Blackboard Submission:![Screenshot of my Skills and Interests training](Skills%20&%Interested.png)
+- Proof of my Blackboard Submission:![Screenshot of my Skills and Interests training](Skills%20and%20Interests.PNG)
 
 ### Reflection  
-**Situation**: I struggled to articulate my skills in interviews.  
-**Task**: I needed a clear skills inventory.  
-**Action**: I read through all the information in the slideshow and did the small exam at the end of the slideshow that tested my understanding of what I read.  
-**Result**: I am also more informed on things I lacked knowledge on before. 
+
+**Situation**: I had to interact and read through a slide show presentation that discussed Skills and Interests. I had to complete all the activities in the slideshow and also finish the exam at the end of the slideshow to complete the submission.
+
+**Task**: I had to watch a slideshow presentation and I also had to complete a small exam at the end that accessed what I learned from the slideshows.
+
+**Action**:  I read through all the information in the slideshow and did the small exam at the end of the slideshow that tested my understanding of what I read.
+
+**Result**: This activity helped me reflect on my strengths and passions, increasing my confidence in articulating them for future opportunities. I am also more informed on things I lacked knowledge on before. 
 
 ---
 
@@ -37,7 +44,7 @@
 
 ### Reflection  
 
-**Situation**: We had to interact and read through a slide show presentation that discussed Personality Assessment. We had to complete all the activities in the slideshow and also finish the exam at the end of the slideshow to complete the submission.
+**Situation**: I had to interact and read through a slide show presentation that discussed Personality Assessment. I had to complete all the activities in the slideshow and also finish the exam at the end of the slideshow to complete the submission.
 
 **Task**: The goal of the slideshow was present key aspects of our personality, how they relate to the workplace, and how it reflects on our readiness for the professional world. 
 
