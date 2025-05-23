@@ -22,10 +22,6 @@
 ## 2. Skills and Interests  
 ### Evidence  
 - ![Screenshot of my Skills and Interests training](Skills%20&%Interested.png)
-- (Top skills: Python, teamwork, debugging).  
-- Interests:  
-  - Web development  
-  - Data privacy  
 
 ### Reflection  
 **Situation**: I struggled to articulate my skills in interviews.  
@@ -37,27 +33,33 @@
 
 ## 3. Personality Assessment  
 ### Evidence  
-- Myers-Briggs result: **INTJ** ("Architect").  
-- [Full report](mbti_results.pdf).  
+![Screenshot of my Personality Assessment training](Personality%20&%Assessment.png) 
 
 ### Reflection  
 **Situation**: I took the MBTI test to understand my work style.  
-**Task**: I aimed to leverage my personality in team projects.  
+
+**Task**: I aimed to leverage my personality in team projects. 
+
 **Action**: I researched INTJ strengths (e.g., strategic planning).  
+
 **Result**: I now volunteer for roles requiring analysis and structure.  
 
 ---
 
 ## 4. CV Creation  
 ### Evidence  
-- [Download my CV](my_cv.pdf).  
-- Tools used: Canva, LaTeX.  
+- [Proof of My Repo Submission to GitHub](https://github.com/wil-it2025/cv-tutorial-CalebLombard/blob/main/CV%20REVIEW%20-%20Caleb%20Lombard%20230781004.docx).  
+- ![Screenshot of my CV Submission on Blackboard](Create%20A%20CV.PNG)
+
 
 ### Reflection  
-**Situation**: My old CV was disorganized.  
-**Task**: I needed a professional, ATS-friendly CV.  
-**Action**: I studied IT CV templates and tailored mine.  
-**Result**: My CV now highlights projects and certifications clearly.  
+**Situation**: I had to submit a completed CV checklist that showed what my previous CV had and what was missing. This was important as it later helped me update my CV to be better suited to professional standards.
+
+**Task**: I had to use a checklist to assess what my current CV included, what was missing, and how it should be structured and formatted according to professional standards.
+
+**Action**: I reviewed my existing CV against the checklist, identified the missing elements, and made all the necessary updates. I ensured the format and content met the required guidelines before finalizing it.  
+
+**Result**: I successfully updated my CV to a more professional standard and submitted it to the WIL repository link as required. This exercise helped me see what was missing and lacked from my previous CV.
 
 ---
 
