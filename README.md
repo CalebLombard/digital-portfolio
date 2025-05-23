@@ -63,11 +63,11 @@
 
 ## 5. CV Submission  
 ### Evidence  
-- Screenshot of CV submitted to [Job Portal X](submission_proof.png).  
+- Downloadable copy of my CV submitted to [Download My CV](CALEB%20LOMBARD%20CV%20230781004.pdf).  
 - Received 3 interview invites.  
 
 ### Reflection  
-**Situation**: I had to create a CV that I would use to help me apply for internships and possibly full time employment. This was a Blackboard Submission.  
-**Task**: 
-**Action**: I updated my previous CV I used when I applied for an internship by the Department of Health. 
-**Result**: 
+**Situation**: I had to create a CV that I would use to help me apply for internships and possibly full time employment in the near future. This was a Blackboard Assignment submission.  
+**Task**: I was tasked with using the 'Create a CV' activity as a blueprint for how my CV should look. Based on that activity, I updated my CV by adding all the necessary information that was missing from the previous version using the checklist from the previous activity.
+**Action**: I updated my previous CV and made the necessary changes that was required from me. 
+**Result**: As a result, I now have a more professional and complete CV that aligns with industry expectations. My updated CV highlights my skills, experience, and qualifications more effectively, making me better prepared to apply for internships and job opportunities.
