@@ -63,7 +63,7 @@
 
 ## 5. CV Submission  
 ### Evidence  
-- Downloadable copy of my CV submitted to [Download My CV](CALEB%20LOMBARD%20CV%20230781004.pdf).  
+- Downloadable copy of my CV submitted to [View My CV](https://github.com/CalebLombard/digital-portfolio/raw/main/CALEB_LOMBARD_CV_230781004.pdf)
 - Received 3 interview invites.  
 
 ### Reflection  
