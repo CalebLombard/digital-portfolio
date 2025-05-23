@@ -12,7 +12,7 @@
 
 ### Reflection 
 
-**Situation**: I had to interact and read through a slide show presentation that discussed Skills and Interests. I had to complete all the activities in the slideshow and also finish the exam at the end of the slideshow to complete the submission.
+**Situation**: I had to interact and read through a slide show presentation that discussed Career Development. I had to complete all the activities in the slideshow and also finish the exam at the end of the slideshow to complete the submission.
 
 **Task**: I had to watch a slideshow presentation and I also had to complete a small exam at the end that accessed what I learned from the slideshows.
 
