@@ -21,7 +21,7 @@
 
 ## 2. Skills and Interests  
 ### Evidence  
-- ![Screenshot of my Skills and Interests training](Skills%20&%Interested.png)
+- Proof of my Blackboard Submission:![Screenshot of my Skills and Interests training](Skills%20&%Interested.png)
 
 ### Reflection  
 **Situation**: I struggled to articulate my skills in interviews.  
@@ -33,7 +33,7 @@
 
 ## 3. Personality Assessment  
 ### Evidence  
-![Screenshot of my Personality Assessment training](Personality%20&%Assessment.png) 
+- Proof of my Blackboard Submission: ![Screenshot of my Personality Assessment training](Personality%20Assessment.PNG) 
 
 ### Reflection  
 **Situation**: I took the MBTI test to understand my work style.  
@@ -49,7 +49,7 @@
 ## 4. CV Creation  
 ### Evidence  
 - [Proof of My Repo Submission to GitHub](https://github.com/wil-it2025/cv-tutorial-CalebLombard/blob/main/CV%20REVIEW%20-%20Caleb%20Lombard%20230781004.docx).  
-- ![Screenshot of my CV Submission on Blackboard](Create%20A%20CV.PNG)
+- Proof of my Blackboard Submission: ![Screenshot of my CV Submission on Blackboard](Create%20A%20CV.PNG)
 
 
 ### Reflection  
