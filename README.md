@@ -68,6 +68,9 @@
 
 ### Reflection  
 **Situation**: I had to create a CV that I would use to help me apply for internships and possibly full time employment in the near future. This was a Blackboard Assignment submission.  
+
 **Task**: I was tasked with using the 'Create a CV' activity as a blueprint for how my CV should look. Based on that activity, I updated my CV by adding all the necessary information that was missing from the previous version using the checklist from the previous activity.
+
 **Action**: I updated my previous CV and made the necessary changes that was required from me. 
+
 **Result**: As a result, I now have a more professional and complete CV that aligns with industry expectations. My updated CV highlights my skills, experience, and qualifications more effectively, making me better prepared to apply for internships and job opportunities.
