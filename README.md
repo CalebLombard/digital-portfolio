@@ -122,7 +122,7 @@ This evidence clearly shows that I completed the required tasks and training, pr
 
 ### Reflection  
 
-**Situation**: I had to interact and read through a slide show presentation that discussed Skills and Interests. I had to complete all the activities that taught me the common behavioral and situational job interview questions using structured answer techniques.
+**Situation**: I had to interact and read through a slide show presentation that discussed skills needed to ace an Interview. I had to complete all the activities that taught me the common behavioral and situational job interview questions using structured answer techniques.
 
 **Task**: My task was to learn and practice effective interview preparation, question analysis, and delivering structured compelling answers that highlight my relevant skills and experiences.
 
@@ -146,7 +146,7 @@ This evidence clearly shows that I completed the required tasks and training, pr
 
 **Action**: I set up a formal, quiet environment, dressed professionally and used the STAR method examples I had prepared. I focused specifically on maintaining eye contact, controlling my pace of speech and demonstrating positive non-verbal communication throughout the recording.
 
-**Result**:  Reviewing the video allowed me to critically evaluate my performance, noting areas like verbal fillers or overly quick speaking. The exercise provided invaluable practical experience enabling me to refine my composure and delivery.THide made me much better prepared for future high-stakes interviews.
+**Result**:  Reviewing the video allowed me to critically evaluate my performance, noting areas like verbal fillers or overly quick speaking. The exercise provided invaluable practical experience enabling me to refine my composure and delivery. This made me much better prepared for future high-stakes interviews.
 
 ---
 
@@ -160,7 +160,7 @@ This evidence clearly shows that I completed the required tasks and training, pr
 
 **Situation**: I had to engage in a professional networking training to understand how to build and maintain professional connections.
 
-**Task**: My task was to learn and practice how to network with professionals. Building key relationships that would become in handy in the near future.
+**Task**: My task was to learn and practice how to network with professionals. Building key relationships that would become handy in the near future.
 
 **Action**: I studied the tips and tricks from the training. These tips and tricks then gave be the ability to actively listen during conversations, ask open-ended questions and how to follow up formally without coming across as desperate or annoying.
 
