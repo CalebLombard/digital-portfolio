@@ -98,7 +98,7 @@ This evidence clearly shows that I completed the required tasks or activities, p
 
 ## 6. Business Communication  
 ### Evidence  
-- Proof of my Blackboard Submission: ![Screenshot of my Career Development training](CareerDevelopment.PNG)
+- Proof of my Blackboard Submission: ![Screenshot of my Career Development training](Business%20Communication.PNG)
 
 This evidence clearly shows that I completed the required tasks or activities, proving that I engaged with the content as expected. The screenshots also act as visual proof that backs up what I describe in my STAR reflections.
 
@@ -116,7 +116,7 @@ This evidence clearly shows that I completed the required tasks or activities, p
 
 ## 7. Interview Skills  
 ### Evidence  
-- Proof of my Blackboard Submission:![Screenshot of my Skills and Interests training](Skills%20and%20Interests.PNG)
+- Proof of my Blackboard Submission:![Screenshot of my Skills and Interests training](Interview%20Skills.PNG)
 
 This evidence clearly shows that I completed the required tasks or activities, proving that I engaged with the content as expected. The screenshots also act as visual proof that backs up what I describe in my STAR reflections.
 
@@ -134,7 +134,7 @@ This evidence clearly shows that I completed the required tasks or activities, p
 
 ## 8. Mock Interview Video  
 ### Evidence  
-- Proof of my Blackboard Completion: ![Screenshot of my Personality Assessment training](Personality%20Assessment.PNG) 
+- Proof of my Blackboard Completion: ![Screenshot of my Personality Assessment training](Mock%20Interview%20Video.PNG) 
 
 This evidence clearly shows that I completed the required tasks or activities, proving that I engaged with the content as expected. The screenshots also act as visual proof that backs up what I describe in my STAR reflections.
 
@@ -153,7 +153,7 @@ This evidence clearly shows that I completed the required tasks or activities, p
 ## 9. Professional Networking  
 ### Evidence  
 - [Proof of My Repo Submission to GitHub](https://github.com/wil-it2025/cv-tutorial-CalebLombard/blob/main/CV%20REVIEW%20-%20Caleb%20Lombard%20230781004.docx).  
-- Proof of my Blackboard Submission: ![Screenshot of my CV Submission on Blackboard](Create%20A%20CV.PNG)
+- Proof of my Blackboard Submission: ![Screenshot of my CV Submission on Blackboard](Professional%20Networking.PNG)
 
 This evidence clearly shows that I completed the required tasks or activities, proving that I engaged with the content as expected. The screenshots also act as visual proof that backs up what I describe in my STAR reflections.
 
@@ -172,7 +172,7 @@ This evidence clearly shows that I completed the required tasks or activities, p
 ## 10. Workplace Etiquette  
 ### Evidence  
 - Downloadable copy of my CV submitted to [Blackboard Submission](https://github.com/CalebLombard/digital-portfolio/raw/main/CALEB_LOMBARD_CV_230781004.pdf)
-- Proof of my Blackboard Submission:   ![Screenshot of my CV Submission on Blackboard](CV%20Submission.PNG)
+- Proof of my Blackboard Submission:   ![Screenshot of my CV Submission on Blackboard](Work%20Etiquette.PNG)
 
 This evidence clearly shows that I completed the required tasks or activities, proving that I engaged with the content as expected. The screenshots also act as visual proof that backs up what I describe in my STAR reflections.
 
